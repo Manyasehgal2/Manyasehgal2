@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manyasehgal2
 - 👀 I’m interested in Neurosceince
-- 🌱 I’m currently learning MATLAB
+- 🌱 I’m currently learning MATLAB and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Manya.sehgal@durham.ac.uk
 
